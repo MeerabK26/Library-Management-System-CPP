@@ -24,20 +24,16 @@ It helps manage books in a library system.
 ## 📸 Screenshots
 
 ### Menu
-
-![menu](screenshots/01_menu.png)
+![Menu](Library-Management-System/Screenshots/01_menu.png)
 
 ### Search Stock
-
-![search_stock](screenshots/02_search_stock.png)
+![Search Stock](Library-Management-System/Screenshots/02_search_stock.png)
 
 ### Issue Book
-
-![issue](screenshots/03_issue.png)
+![Issue Book](Library-Management-System/Screenshots/03_issue.png)
 
 ### Return Book
-
-![return](screenshots/04_return.png)
+![Return Book](Library-Management-System/Screenshots/04_return.png)
 
 ## 🚀 How to Run
 
